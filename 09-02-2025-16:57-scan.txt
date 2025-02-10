@@ -1,0 +1,22 @@
+Отчёт о состоянии системы:
+Пользователи системы: root, systemd+, avahi, message+, gnome-r+, polkitd, syslog, lp, cups-br+, rtkit, colord, user
+Процессов запущено: 226
+
+Пользовательских процессов:
+root: 104
+systemd+: 3
+avahi: 2
+message+: 1
+gnome-r+: 1
+polkitd: 1
+syslog: 1
+lp: 1
+cups-br+: 1
+rtkit: 1
+colord: 1
+user: 109
+
+Всего памяти используется: 111.7%
+Всего CPU используется: 98.1%
+Больше всего памяти использует: /snap/pycharm-commun (39.0%)
+Больше всего CPU использует: /home/user/projects/ (50.0%)
